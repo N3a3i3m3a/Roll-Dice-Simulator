@@ -35,10 +35,9 @@ function getDiceFace(rollResult){
         case 5: 
         return "&#9860;";
         case 6: 
-        return "&#961;";
+        return "&#9861;";
         default:
         return ""
-       
     }
 }
 rollButton.addEventListener("click", ()=>{
